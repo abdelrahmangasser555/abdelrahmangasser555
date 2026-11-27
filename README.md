@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.tailoredtech.tech">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20TailoredTech-www.tailoredtech.tech-7C3AED?style=for-the-badge&amp;labelColor=0D1117" alt="Visit TailoredTech: www.tailoredtech.tech" height="40">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20TailoredTech-www.tailoredtech.tech-7C3AED?style=for-the-badge&amp;labelColor=4C1D95" alt="Visit TailoredTech: www.tailoredtech.tech" height="40">
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://abdelrahmangasser.tailoredtech.tech"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/tailored-tech-2023"><img src="https://img.shields.io/badge/TailoredTech-GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TailoredTech on GitHub"></a>
+  <a href="https://abdelrahmangasser.tailoredtech.tech"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/tailored-tech-2023"><img src="https://img.shields.io/badge/TailoredTech-GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TailoredTech on GitHub"></a>
   <a href="https://cursor.com"><img src="https://img.shields.io/badge/Built%20with-Cursor-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Built with Cursor"></a>
   <img src="https://komarev.com/ghpvc/?username=abdelrahmangasser555&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VIEWS" alt="Profile views">
 </p>
