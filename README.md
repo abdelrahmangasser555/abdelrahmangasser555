@@ -3,12 +3,25 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Founder+%26+Lead+Engineer+%40+TailoredTech;Building+production+apps+for+10%2C000%2B+users;Solution+architect+%E2%80%94+offline-first%2C+secure%2C+business-first;Shipping+enterprise+logistics+%26+maritime+software;AI+%2F+ML+%E2%80%A2+Computer+Engineering+%40+AAST;Building+at+the+speed+of+thought+with+Cursor+%E2%9A%A1" alt="Typing intro"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Founder+%26+Lead+Engineer+%40+TailoredTech;Building+production+apps+for+10%2C000%2B+users;Trusted+by+a+%241B%2B+enterprise+client;Solution+architect+%E2%80%94+offline-first%2C+secure%2C+business-first;Shipping+enterprise+logistics+%26+maritime+software;AI+%2F+ML+%E2%80%A2+Computer+Engineering+%40+AAST;Building+at+the+speed+of+thought+with+Cursor+%E2%9A%A1" alt="Typing intro"></a>
 </p>
 
 <p align="center">
-  <a href="https://abdelrahmangasser.tailoredtech.tech"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/tailored-tech-2023"><img src="https://img.shields.io/badge/TailoredTech-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TailoredTech"></a>
+  <a href="https://www.tailoredtech.tech">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20TailoredTech-www.tailoredtech.tech-7C3AED?style=for-the-badge&amp;labelColor=0D1117" alt="Visit TailoredTech: www.tailoredtech.tech" height="40">
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/highlights-dark.svg">
+    <img src="./assets/highlights-light.svg" alt="10,000+ users on apps I built. Trusted by a $1B+ enterprise client." width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://abdelrahmangasser.tailoredtech.tech"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/tailored-tech-2023"><img src="https://img.shields.io/badge/TailoredTech-GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TailoredTech on GitHub"></a>
   <a href="https://cursor.com"><img src="https://img.shields.io/badge/Built%20with-Cursor-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Built with Cursor"></a>
   <img src="https://komarev.com/ghpvc/?username=abdelrahmangasser555&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VIEWS" alt="Profile views">
 </p>
@@ -17,9 +30,12 @@
 
 ## 👋 About me
 
-I'm **Abdelrahman Gasser**, founder and lead engineer at **[TailoredTech](https://github.com/tailored-tech-2023)** in Dubai (since 2024). I design and ship production software that scales to **10,000+ users**.
+I'm **Abdelrahman Gasser**, founder and lead engineer at **[TailoredTech](https://www.tailoredtech.tech)** in Dubai (since 2024). I design and ship production software that scales to **10,000+ users**, and I've delivered for a **$1B+ enterprise client**.
+
+> 🌐 **See what we build at [www.tailoredtech.tech](https://www.tailoredtech.tech)**
 
 - 🚀 **Founder & Lead Engineer**: I take products from idea to production, from architecture through code to delivery.
+- 📈 **Proven at scale**: apps I built serve **10,000+ users**, and a **$1B+ enterprise client** trusts us with its software.
 - 🧠 **Solution architect**: offline-first sync, security by design and business-first thinking.
 - 🚢 **Enterprise logistics & maritime software**: approval workflows, purchase modules and the integrations around them.
 - 🤖 **AI / ML**: built **Dawini AI** (2023) and trained with the **IOAI 2025 UAE team** (NLP, computer vision, transformers).
