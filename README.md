@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Founder+%26+Lead+Engineer+%40+TailoredTech;Building+production+apps+for+10%2C000%2B+users;Trusted+by+a+%241B%2B+enterprise+client;Solution+architect+%E2%80%94+offline-first%2C+secure%2C+business-first;Shipping+enterprise+logistics+%26+maritime+software;AI+%2F+ML+%E2%80%A2+Computer+Engineering+%40+AAST;Building+at+the+speed+of+thought+with+Cursor+%E2%9A%A1" alt="Typing intro"></a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;color=93C5FD&amp;width=720&amp;lines=Founder+%26+Lead+Engineer+%40+TailoredTech;Building+production+apps+for+10%2C000%2B+users;Trusted+by+a+%241B%2B+enterprise+client;Solution+architect+%E2%80%94+offline-first%2C+secure%2C+business-first;Shipping+enterprise+logistics+%26+maritime+software;AI+%2F+ML+%E2%80%A2+Computer+Engineering+%40+AAST;Building+at+the+speed+of+thought+with+Cursor+%E2%9A%A1">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;color=1E40AF&amp;width=720&amp;lines=Founder+%26+Lead+Engineer+%40+TailoredTech;Building+production+apps+for+10%2C000%2B+users;Trusted+by+a+%241B%2B+enterprise+client;Solution+architect+%E2%80%94+offline-first%2C+secure%2C+business-first;Shipping+enterprise+logistics+%26+maritime+software;AI+%2F+ML+%E2%80%A2+Computer+Engineering+%40+AAST;Building+at+the+speed+of+thought+with+Cursor+%E2%9A%A1" alt="Typing intro">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
